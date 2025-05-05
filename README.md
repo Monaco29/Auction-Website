@@ -19,10 +19,15 @@ This project is a full-featured online auction platform that connects sellers an
 📊 Admin dashboard to manage users, auctions, revenue, and reports.
 
 🛠️ Technologies Used
-Layer	Technology
-Frontend	HTML5, CSS3, Bootstrap 4, JavaScript, jQuery, AJAX
-Backend	PHP (Core PHP)
-Database	MySQL
-Server	Apache (via XAMPP)
-Version Control	Git & GitHub
-Tools	Visual Studio Code, phpMyAdmin
+
+Frontend - HTML5, CSS3, Bootstrap 4, JavaScript, jQuery, AJAX
+
+Backend	- PHP (Core PHP)
+
+Database - MySQL
+
+Server - Apache (via XAMPP)
+
+Version - Control	Git & GitHub
+
+Tools	- Visual Studio Code, phpMyAdmin
